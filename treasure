@@ -2,3 +2,6 @@ http.title:"WSO2 Enterprise Integrator (WSO2 EI)"
 
 BIG-IP iControl REST vulnerability CVE-2022-1388 - RCE
 http.title:"BIG-IP&reg;-+Redirect" +"Server"
+
+Apache Tomcat - CVE-2022-34305
+http.title:"Login Page for Examples"
